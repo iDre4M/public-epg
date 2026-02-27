@@ -1,39 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="546602986e6a424d74d594876ddb3f04" tvg-name="ТНТ" tvg-logo="https://pic.rtbcdn.ru/user/7b/0e/7b0eff0bb0664dd72c544191a27bc615.jpg" group-title="Телепередачи",ТНТ
-https://bl.rutube.ru/livestream/73968c8e1530993c8601b9d4127aeda9/index.m3u8?s=vqEjPr3K9TaB1ilPjKb1Vg&e=2072072856&scheme=https
+https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=jUiI8UfPkV7corTW66Eixg&e=2072159587&scheme=https
 #EXTINF:-1 tvg-id="c37cd74192c6bc3d6cd6077c0c4fd686" tvg-name="НТВ" tvg-logo="https://pic.rtbcdn.ru/user/1f/ec/1fec36d83dfaabbf819c84a5cb044858.jpg" group-title="Телепередачи",НТВ
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=6BU0XbAy3FtBcdWfJShFPw&e=2072072857&scheme=https
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=ciGoU7ezinT_1KkjoI2kKQ&e=2072159600&scheme=https
 #EXTINF:-1 tvg-id="c58f502c7bb34a8fcdd976b221fca292" tvg-name="Первый канал" tvg-logo="https://pic.rtbcdn.ru/user/63/a2/63a2eb1886a45be2b1da64729397230c.jpg" group-title="Телепередачи",Первый канал
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=9Thr9Ropz92qz3pwiUvSyg&e=2072072857&scheme=https
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=AqB1dDFk11rEPBMuQZaOlQ&e=2072159601&scheme=https
 #EXTINF:-1 tvg-id="9f87a9a0cecbe773be6fddcbd93585ac" tvg-name="Пятница" tvg-logo="https://pic.rtbcdn.ru/user/2025-06-17/8c/e0/8ce0eaa79084503099ded7c3e2eed760.jpg" group-title="Телепередачи",Пятница
-https://bl.rutube.ru/livestream/b77903b5e2a438f51cd6af9370af19c2/index.m3u8?s=e0OfuOJU8wyuqBA0Xr9kag&e=2072072858&scheme=https
-#EXTINF:-1 tvg-id="5ab908fccfac5bb43ef2b1e4182256b0" tvg-name="Звезда" tvg-logo="https://pic.rtbcdn.ru/user/b1/98/b1983851416b1ac8d09cb5f82fd0e0cc.jpeg" group-title="Телепередачи",Звезда
-https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=TKtpVO2iVUU6BPNTMi8UIQ&e=2072072859&scheme=https
+https://bl.rutube.ru/livestream/d90aa86cc5b1d4a7b310c85debcee474/index.m3u8?s=jWdxopVF5VYuvjnmRQvHqQ&e=2072159601&scheme=https
 #EXTINF:-1 tvg-id="df6fe73494a26f74da51573fd97b9baa" tvg-name="МУЗТВ" tvg-logo="https://pic.rtbcdn.ru/user/04/c9/04c99cd18d31ebeff6794da2d3fbf374.png" group-title="Телепередачи",МУЗТВ
-https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=lVX3KFQ1hp6OlLYqaYpbqA&e=2072072859&scheme=https
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=UXmVEkMWIqW6_s-qsKhrtQ&e=2072159614&scheme=https
+#EXTINF:-1 tvg-id="5ab908fccfac5bb43ef2b1e4182256b0" tvg-name="Звезда" tvg-logo="https://pic.rtbcdn.ru/user/b1/98/b1983851416b1ac8d09cb5f82fd0e0cc.jpeg" group-title="Телепередачи",Звезда
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=OV1B4AHCcjRuQ1E--k38uQ&e=2072159614&scheme=https
 #EXTINF:-1 tvg-id="c801a7087e29a097192d74c270fbc6c1" tvg-name="ТНТ4" tvg-logo="https://pic.rtbcdn.ru/user/33/17/331736c88454c4c6b448fd14c88c8bf2.jpeg" group-title="Телепередачи",ТНТ4
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=5HHfTriQjC-1lwrm_rtNyg&e=2072072859&scheme=https
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=4IHMHcLw47_7DDMMFBG7tA&e=2072159615&scheme=https
 #EXTINF:-1 tvg-id="afef67d151b5a607dee1ef0aa299a52c" tvg-name="МИР" tvg-logo="https://pic.rtbcdn.ru/user/2026-01-14/7a/e4/7ae473d56ae5c038ce3c472a340f47a6.jpg" group-title="Телепередачи",МИР
-https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=OrnJ9KE8hz51iovDQyT8Yg&e=2072072860&scheme=https
-#EXTINF:-1 tvg-id="392b4686b770bae2da6bf5ac4574add5" tvg-name="2х2" tvg-logo="https://pic.rtbcdn.ru/user/16/e2/16e20d402f51aab16e52e9bb29e9d89b.jpg" group-title="Телепередачи",2х2
-https://bl.rutube.ru/livestream/e2316b43b1803d6c29a542345bbd714e/index.m3u8?s=os5yOs006gjDpD3iWOpbNQ&e=2072072860&scheme=https
-#EXTINF:-1 tvg-id="3b7d1499da9396462bfd17282d758d30" tvg-name="Кинолаффка" tvg-logo="https://pic.rtbcdn.ru/user/7a/8e/7a8ebf04f384363ea92ab71e18c02020.jpg" group-title="Сериалы",Кинолаффка
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=095wrOV4VjBoKrImWTwRfA&e=2072072861&scheme=https
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=p-hp3D93TsHyWgJTZ0aT-w&e=2072159616&scheme=https
 #EXTINF:-1 tvg-id="4965b7b928c4a143d708ab424be01d37" tvg-name="Киножелезо" tvg-logo="https://pic.rtbcdn.ru/user/7a/8e/7a8ebf04f384363ea92ab71e18c02020.jpg" group-title="Сериалы",Киножелезо
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=m-iMN5JfhNhOzpFxPukk6Q&e=2072072862&scheme=https
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=xafDvghCc8272nHZiekgZg&e=2072159616&scheme=https
+#EXTINF:-1 tvg-id="392b4686b770bae2da6bf5ac4574add5" tvg-name="2х2" tvg-logo="https://pic.rtbcdn.ru/user/16/e2/16e20d402f51aab16e52e9bb29e9d89b.jpg" group-title="Телепередачи",2х2
+https://bl.rutube.ru/livestream/3d049e88a9b8dc64f4654d712e252d2c/index.m3u8?s=k-LGngmW0MYlPNGGy4MGcw&e=2072159617&scheme=https
 #EXTINF:-1 tvg-id="b1eb8e90d7e636677b3eb73b4fcbb717" tvg-name="RUTV" tvg-logo="https://pic.rtbcdn.ru/user/16/86/168625f4c02708c7b7ce6512daf979bf.jpg" group-title="Музыка",RUTV
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=ZG1xcghglbvx3exz_-15aw&e=2072072862&scheme=https
-#EXTINF:-1 tvg-id="310744c10a5809da38aa445c952976da" tvg-name="Суббота!" tvg-logo="https://pic.rtbcdn.ru/user/dd/0e/dd0e078410ed58d778b38164b3ccdc0d.jpg" group-title="Телепередачи",Суббота!
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=8o6kCpIrcz3dCw3tbaoDfQ&e=2072072862&scheme=https
-#EXTINF:-1 tvg-id="047ba54d846ee185b4209a797a2ae138" tvg-name="NOW Rock" tvg-logo="https://pic.rtbcdn.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg" group-title="Музыка",NOW Rock
-https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=Lu_q0p5jzMANNfaMluDOXw&e=2072072863&scheme=https
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=bgGQRSkyC6AZYW8GfDVlrQ&e=2072159618&scheme=https
+#EXTINF:-1 tvg-id="3b7d1499da9396462bfd17282d758d30" tvg-name="Кинолаффка" tvg-logo="https://pic.rtbcdn.ru/user/7a/8e/7a8ebf04f384363ea92ab71e18c02020.jpg" group-title="Сериалы",Кинолаффка
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=s4Hy22xkO_vVo5_PO7cPsA&e=2072159618&scheme=https
 #EXTINF:-1 tvg-id="f712ae5ff3db23ec09b3674133d44daa" tvg-name="VIVA Russia HD" tvg-logo="https://pic.rtbcdn.ru/user/c3/a4/c3a4ad05703c7c982d567fb31ae348fd.jpg" group-title="Телепередачи",VIVA Russia HD
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=9l9Elh128SHAlXVmYaTkWA&e=2072072863&scheme=https
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=zDuZW9B7PX9-6UFCCbIXtQ&e=2072159619&scheme=https
+#EXTINF:-1 tvg-id="310744c10a5809da38aa445c952976da" tvg-name="Суббота!" tvg-logo="https://pic.rtbcdn.ru/user/dd/0e/dd0e078410ed58d778b38164b3ccdc0d.jpg" group-title="Телепередачи",Суббота!
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=nchWuIS-xOZbmKmUy2TsfA&e=2072159620&scheme=https
 #EXTINF:-1 tvg-id="5a294ae1ed12c44c7053301fb5fa9ba0" tvg-name="FON MUSIC" tvg-logo="https://pic.rtbcdn.ru/user/2026-01-27/1f/14/1f14ec373b8c3eeebb7aad3e34d3bb74.jpg" group-title="Музыка",FON MUSIC
-https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=pCr3O03Xw9hdFTTLRyeigg&e=2072072864&scheme=https
+https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=NKBfdmugDoU52lXFeiR6Jw&e=2072159620&scheme=https
+#EXTINF:-1 tvg-id="047ba54d846ee185b4209a797a2ae138" tvg-name="NOW Rock" tvg-logo="https://pic.rtbcdn.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg" group-title="Музыка",NOW Rock
+https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=F6GMjRCg9jNZ52n6rrv2Xw&e=2072159621&scheme=https
 #EXTINF:-1 tvg-id="d01241e9fd2bc2d65dbf6d74cca02f89" tvg-name="NBA TV" tvg-logo="https://pic.rtbcdn.ru/user/2025-08-04/f3/aa/f3aad38ffb3e2446bfe51cbc2884e4df.jpg" group-title="Спорт",NBA TV
-https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=elQmE-ujdDfXWbPMEZalGA&e=2072072864&scheme=https
+https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=azyO1_VH_cvYp8NB4rgaaQ&e=2072159621&scheme=https
 #EXTINF:-1 tvg-id="053ac917a4334e240103ca55941f869f" tvg-name="Sony Cine" tvg-logo="https://pic.rtbcdn.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg" group-title="Фильмы",Sony Cine
-https://bl.rutube.ru/livestream/053ac917a4334e240103ca55941f869f/index.m3u8?s=ICerTgPwrarv2Q8svQOBhw&e=2072072865&scheme=https
+https://bl.rutube.ru/livestream/053ac917a4334e240103ca55941f869f/index.m3u8?s=iyhPrg0VSpYwbrctZ_8KVQ&e=2072159622&scheme=https
 #EXTINF:-1 tvg-id="47fdffd6ab82bbab0a19039d7018839f" tvg-name="DeluxeDance" tvg-logo="https://pic.rtbcdn.ru/user/2025-08-07/39/38/39380efeac606414770937b497444164.jpg" group-title="Музыка",DeluxeDance
-https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=e7d8j2Q8UpuWfCoPnjGM5w&e=2072072865&scheme=https
+https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=JmK1mEyoILzO425L8WgPSw&e=2072159623&scheme=https
