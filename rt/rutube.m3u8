@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="5ab908fccfac5bb43ef2b1e4182256b0" tvg-name="Звезда" tvg-logo="https://pic.rtbcdn.ru/user/b1/98/b1983851416b1ac8d09cb5f82fd0e0cc.jpeg" group-title="Телепередачи",Звезда
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=0_6cxR3UDCCYMMtEmH46VQ&e=2073887721&scheme=https
 #EXTINF:-1 tvg-id="5a294ae1ed12c44c7053301fb5fa9ba0" tvg-name="FON MUSIC" tvg-logo="https://pic.rtbcdn.ru/user/2026-01-27/1f/14/1f14ec373b8c3eeebb7aad3e34d3bb74.jpg" group-title="Музыка",FON MUSIC
-https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=PVLarEW_VYm7kdxuRn6S_Q&e=2073801515&scheme=https
+https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=GG1OBmNV3tLRAJ5pW22kAw&e=2073888145&scheme=https
